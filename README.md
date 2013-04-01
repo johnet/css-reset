@@ -1,4 +1,4 @@
 reset.css
 =========
 
-My own little CSS reset file. Pretty sweet stuff!
+This is the file I will use when practicing CSS by my lonesome. Feel free to use it if you like!
