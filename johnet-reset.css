@@ -1,4 +1,4 @@
-/* CSS resets */
+/* CSS Resets */
 
 /* Normalize margins, padding, borders, font-size, font inheritance, and vertical alignment */
 
@@ -37,13 +37,13 @@ body {
 
 /* Remove list styles */
 
-ol,ul {
+ol, ul {
 	list-style: none;
 }
 
 /* Normalize font-style and font-weight */
 
-address,caption,cite,code,dfn,em,strong,th,var {
+address, caption, cite, code, dfn, em, strong, th, var {
 	font-style: normal;
 	font-weight: normal;
 }
@@ -57,23 +57,23 @@ table {
 
 /* Remove border from fieldset and img */
 
-fieldset,img {
+fieldset, img {
 	border: 0;
 }
 
 /* Left-aligns text in caption and th */
 
-caption,th {
+caption, th {
 	text-align: left;
 }
 
 /* Normalize blockquote, quote, and remove quotation marks from quotes */
 
-blockquote,q{
+blockquote, q{
 	quotes: none;
 }
 
-blockquote:before,blockquote:after,q:before,q:after {
+blockquote:before, blockquote:after, q:before,q:after {
 	content:'';
 	content: none;
 }
